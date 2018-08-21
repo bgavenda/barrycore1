@@ -1,0 +1,11 @@
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\BarryCore1.deps.json
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\BarryCore1.runtimeconfig.json
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\BarryCore1.runtimeconfig.dev.json
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\BarryCore1.dll
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\bin\Debug\netcoreapp2.0\BarryCore1.pdb
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\obj\Debug\netcoreapp2.0\BarryCore1.csproj.CoreCompileInputs.cache
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\obj\Debug\netcoreapp2.0\BarryCore1.AssemblyInfoInputs.cache
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\obj\Debug\netcoreapp2.0\BarryCore1.AssemblyInfo.cs
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\obj\Debug\netcoreapp2.0\BarryCore1.dll
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\obj\Debug\netcoreapp2.0\BarryCore1.pdb

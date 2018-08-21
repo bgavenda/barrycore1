@@ -1,0 +1,12 @@
+C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BarryCore1
+--content-root=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Home\About.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Home\Contact.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Home\Index.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Shared\Error.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Shared\_Layout.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\_ViewImports.cshtml
+--file=C:\Users\bgavenda\Documents\Visual Studio 2017\Projects\BarryCore1\BarryCore1\Views\_ViewStart.cshtml
